@@ -19,3 +19,19 @@
 <img src = "https://user-images.githubusercontent.com/68854742/188561108-ebf01d69-c907-49b0-b7ca-2d6859491a36.png" width = "300" height = "600">
 
 <img src = "https://user-images.githubusercontent.com/68854742/188561215-7c7f5297-dca0-48e3-b1a5-4b96e3c1fe85.png" width = "300" height = "600">
+
+**User Description Screen**
+
+<img src = "https://user-images.githubusercontent.com/68854742/188561435-ca4d36ac-c935-4089-8fdb-381d67bd5444.png" width = "300" height = "600">
+
+**Follower List Screen - List View**
+
+<img src = "https://user-images.githubusercontent.com/68854742/188561632-e1203127-6ab7-4654-b8a7-337c1d94aa3e.png" width = "300" height = "600">
+
+**Follower List Screen - Grid View**
+
+<img src = "https://user-images.githubusercontent.com/68854742/188561804-be704d2a-9c02-426d-b06c-111026e6ce82.png" width = "300" height = "600">
+
+**Search Functionality (Filter Follower)**
+
+<img src = "https://user-images.githubusercontent.com/68854742/188561972-c4745cee-8a5f-4e5b-8f59-bfcb2bf11846.png" width = "300" height = "600">
