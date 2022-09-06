@@ -11,5 +11,3 @@
 **Some Glimpse of the app**
 
 **Home Screen**
-
-![Uploading Simulator Screen Shot - iPhone 12 Pro Max - 2022-09-06 at 11.01.33.png…]()
